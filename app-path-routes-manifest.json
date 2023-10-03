@@ -1,0 +1,8 @@
+{
+  "/page": "/",
+  "/favicon.ico/route": "/favicon.ico",
+  "/slice-simulator/page": "/slice-simulator",
+  "/api/exit-preview/route": "/api/exit-preview",
+  "/api/preview/route": "/api/preview",
+  "/api/revalidate/route": "/api/revalidate"
+}
